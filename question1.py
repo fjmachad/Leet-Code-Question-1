@@ -1,4 +1,5 @@
-class Solution(object):
+class Solution(object): 
+    # This fucntion takes in a list and uses a for loop to find the indices that add up to the target number
     def twoSum(self, nums, target):
         """
         :type nums: List[int]
